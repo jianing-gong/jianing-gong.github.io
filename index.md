@@ -1,4 +1,4 @@
-## Portfolio
+x## Portfolio
 
 ---
 
@@ -6,7 +6,7 @@
 
 [NPHI Dashboard Demo - Interactive](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+https://jg2190.shinyapps.io/nphi_dashboard/
 
 ---
 [Depression Subreddit Text Analysis](/sample_page)
