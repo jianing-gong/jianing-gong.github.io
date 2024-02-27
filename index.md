@@ -5,7 +5,7 @@
 ### Category Name 1
 
 [NPHI Dashboard Demo - Interactive](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/dashboard_demo.mov?raw=true"/>
 https://jg2190.shinyapps.io/nphi_dashboard/
 
 ---
