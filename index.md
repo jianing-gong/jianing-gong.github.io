@@ -16,7 +16,7 @@ Dashboard Demo<href https://jg2190.shinyapps.io/nphi_dashboard/>
 
 
 ---
-[Project 3 Title](http://example.com/)
+[Factors Behand Gender Pay Gap](/pdf/ds2_final_peoject_jg2190-2.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
