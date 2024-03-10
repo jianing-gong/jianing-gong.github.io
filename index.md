@@ -22,8 +22,8 @@ Dashboard Demo<href https://jg2190.shinyapps.io/nphi_dashboard/>
 ---
 
 ### Articles
-
-- [Project 2 Title](http://example.com/)(pdf/sample_presentation.pdf)
+[The impact of Case Management](/pdf/sample_presentation.pdf)
+- [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
