@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1
+### Projects
 
 [NPHI Dashboard Demo - Interactive](/pdf/sample_presentation.pdf)
 <img src="images/dashboard_demo.mov?raw=true"/>
@@ -23,7 +23,8 @@ Dashboard Demo<href https://jg2190.shinyapps.io/nphi_dashboard/>
 
 ### Articles
 
-- [The Impact of a Case Management Program on Debt Rates and Employment Rates/ A Difference-in-Difference Analysis](/pdf/The Impact of a Case Management Program on Debt Rates and Employment Rates/ A Difference-in-Difference Analysis.pdf)
+- [The Impact of a Case Management Program on Debt Rates and Employment Rates/ A Difference-in-Difference Analysis]
+  (/pdf/The Impact of a Case Management Program on Debt Rates and Employment Rates/ A Difference-in-Difference Analysis.pdf)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
