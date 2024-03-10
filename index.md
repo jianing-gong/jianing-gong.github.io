@@ -9,7 +9,7 @@
 Dashboard Demo<href https://jg2190.shinyapps.io/nphi_dashboard/>
 
 ---
-[Depression Subreddit Text Analysis](/pdf/Insight report_jg2190.pdf)
+[Depression Subreddit Text Analysis](/pdf/reddits.pdf)
 <img src="images/cluster.png?raw=true"/>
 
 <img src="images/depressioninfograpic.png?raw=true"/>
