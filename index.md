@@ -4,7 +4,7 @@
 
 ### Projects
 
-[NPHI Dashboard Demo - Interactive](https://jg2190.shinyapps.io/nphi_dashboard/))
+[NPHI Dashboard Demo - Interactive](https://jg2190.shinyapps.io/nphi_dashboard/)
 <img src="images/dashboard_demo.mov?raw=true"/>
 
 ---
