@@ -4,9 +4,8 @@
 
 ### Projects
 
-[NPHI Dashboard Demo - Interactive](/pdf/sample_presentation.pdf)
+[NPHI Dashboard Demo - Interactive](https://jg2190.shinyapps.io/nphi_dashboard/))
 <img src="images/dashboard_demo.mov?raw=true"/>
-Dashboard Demo<href https://jg2190.shinyapps.io/nphi_dashboard/>
 
 ---
 [Depression Subreddit Text Analysis](/pdf/reddits.pdf)
