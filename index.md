@@ -29,7 +29,7 @@
 
 ---
 ### Tutorials
-- [Bubble Chart Tutorial](http://example.com/)
+- [Bubble Chart Tutorial](/pdf/gong_jg2190_tutorial.html)
 
 ---
 
