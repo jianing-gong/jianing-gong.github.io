@@ -21,11 +21,15 @@
 ---
 
 ### Articles
-[The impact of Case Management](/pdf/case_management.pdf)
-- [Project 2 Title](http://example.com/)
+
+- [The impact of Case Management](/pdf/case_management.pdf)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
+
+---
+### Tutorials
+- [Bubble Chart Tutorial](http://example.com/)
 
 ---
 
