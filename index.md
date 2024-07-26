@@ -15,7 +15,7 @@
 
 
 ---
-[Factors Behand Gender Pay Gap](/pdf/ds2_final_project_jg2190-2.pdf)
+[Factors Behind Gender Pay Gap](/pdf/ds2_final_project_jg2190-2.pdf)
 <img src="images/decision_tree_women.jpg?raw=true"/>
 
 ---
