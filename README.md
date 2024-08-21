@@ -2,7 +2,8 @@
 
 ### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+Jenny Gong brings a strong blend of technical proficiency and practical experience to the role of Data Scientist, Product Analytics. With two years as a Data Analyst in digital marketing and a Master’s degree in Data Science, she excels in transforming complex data sets into actionable insights. Jenny's expertise includes quantitative analysis, experimentation, data mining, and presenting data to develop strategies for products serving billions of people. She has a proven ability to define and monitor key product metrics, drive product improvements, and support strategic decisions through data-driven insights. Jenny's technical skills encompass building intuitive data dashboards, optimizing data pipelines, and proficiency in database programming and ETL processes, utilizing SQL, Python, and R.
+
 
 <img src="images/demo.gif?raw=true"/>
 
