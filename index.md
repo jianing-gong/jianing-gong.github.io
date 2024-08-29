@@ -4,7 +4,7 @@
 
 ### Projects
 
-[NPHI Dashboard Demo]
+- NPHI Dashboard Demo
 <img src="images/demo1.png?raw=true"/>
 <img src="images/demo2.png?raw=true"/>
 
