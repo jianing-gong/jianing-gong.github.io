@@ -24,7 +24,7 @@
 
 - [The impact of Case Management](/pdf/case_management.pdf)
 - [Health System in the U.S.](/pdf/Health System in the U.S.-Jenny.pdf)
-- [Project 4 Title](/pdf/case_management.pdf) 
+- [Case Study - How Algorithm Oppressed Women In Hiring Process](pdf/Case Study - How Algorithm Oppressed Women In Hiring Process.pdf) 
 
 
 ---
